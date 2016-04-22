@@ -1,0 +1,5 @@
+development:
+  access_key_id: "AKIAI7GRIQBCG7FM3VJA"
+  secret_access_key: "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"
+  bucket: "vakilsearch-devteam"
+  paperclip_secret: 'v/qM9=Q~|zx@ilPoaI&>dt29zB~Al)u]BjW3;g/ts!D6weYw)m%.F(7kYA9GlqL7fXj;T[[v6HyMfWV-|[{|u^lu9ZA72?f+^>Kt/grgD4$\^>9<r+oCDHql(adCf8>+74XO{]j\PA}Tn?PL]\9MsBM!Vtp[tD$7XWTyf(-xeU?|eH*zic7C!O*Ul/H?rctIOdef*NchQ.Jc)>wTen6O\y8E^b1NHtUb+*@=2DlpBWdkdy@L|G~y,PAI-Ru2a7AA<9]xRU$6WsLZv$aNNdT3ky~?:;@CeEOhztol$hILQ6myZ!7#e~[:.>3ER1FpI]uJioYiqdSs|h@n+n{B+!^*VqJIZAe!q)KS<S55B#-bx,[NIQUpj|WhW<W)JRHc$Ng|IVxiBH1@1L-A\+~Z4R}=hIWzh|NCTbM8?RajJU=EE=20qWp=#Acz|9UHiYVpyUNWZ^e9kLWeo&&LN(iakJi6s<Q5>Ihx7T0|~r!t,E-Vlo3?e*G|X]aH7T4E?XG.lcwOqd.X%jiM+wK$pQGTCu_#]E^MUo)hlN]fzpZ2w\f]AQdj-#SF{.DLp&2k0D[k%+Za-1Ar2{Z*5vw!\j3E|#L820V-Fh\KOCi!hxn5ZpP^i6d%qXDV}*^>u}uLAd(5k(&XEON/mEsI36QP&5<_(|U2/9X2A^m_J!M.L1M7oAH~U.VpqFJo*Lb:goo0.0^)X)@xkwDQ~1A[p%D4.a}m5|Nd>X)JY2SJz$0tNVe(~[^HK.PhU#]L&HlEYj<p1C4tvn+}'
